@@ -7,4 +7,4 @@ Listed below is each team in the AFC West with a link to their team website.
 
 
 
-Click [HERE](https://github.com/GGodsey45/MIDTERM/blob/517323b980791174110cacf3a7b33e407246909e/README.md) to return home.
+Click [HERE](README.md) to return home.
