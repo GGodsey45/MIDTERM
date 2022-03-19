@@ -6,4 +6,4 @@
 1. Teams in the [AFC WEST](AFCWEST.md)
 2. [Chiefs Stadium](STADIUM.md)  
 3. Key [Defensive Players](DEFENSE.md)  
-4. Key [Offensive Players](OFFENSE.mdd)
+4. Key [Offensive Players](OFFENSE.md)
