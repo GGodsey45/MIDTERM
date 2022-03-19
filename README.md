@@ -6,4 +6,4 @@
 1. Teams in the [AFC WEST](AFCWEST.md)
 2. [Chiefs Stadium](STADIUM.md)  
 3. Key [Defensive Players](DEFENSE.md)  
-4. Key [Offensive Players](https://github.com/GGodsey45/MIDTERM/blob/173b90e5f31466afd7fdc8e4ddd7a6275c7bc300/OFFENSE.md)
+4. Key [Offensive Players](OFFENSE.mdd)
