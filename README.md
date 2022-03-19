@@ -1,2 +1,1 @@
-# MIDTERM
-Midterm project
+# Kansas City Chiefs INFO PAGE
