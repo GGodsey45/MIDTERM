@@ -29,4 +29,4 @@ The Kansas City Chiefs have one of the best offense in the NFL. The Key players 
 
 
 
-  Click [HERE](https://github.com/GGodsey45/MIDTERM/blob/517323b980791174110cacf3a7b33e407246909e/README.md) to return home.
+  Click [HERE](https://github.com/GGodsey45/MIDTERM/blob/4e50cd8dc747d4ffdb3eeba296073faab61539dc/AFCWEST.md) to return home.
