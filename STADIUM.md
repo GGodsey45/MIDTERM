@@ -1,2 +1,2 @@
 **_ARROWHEAD STADIUM_**  
-![Arrowhead Stadium] ("arrowhead.jpg")
+![Arrowhead Stadium] (arrowhead.jpg)
